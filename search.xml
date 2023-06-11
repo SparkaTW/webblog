@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>【2023 Discord經營】經驗談:Discord社群的重點?</title>
+    <title>【2023 Discord 伺服器經營攻略】經驗談:Discord社群的重點?</title>
     <url>/webblog/2023/06/11/Discord%E7%A4%BE%E7%BE%A4%E7%9A%84%E9%87%8D%E9%BB%9E/</url>
     <content><![CDATA[<p>剛開始，我的概念是: 「只要把群組的功能做得好，做得豐富，在盡力宣傳，就能建立一個成功的伺服器」， </p>
 <p>在這個概念下，我建立了一個叫做 「DisHighSchool 迪斯中學」的伺服器。</p>
@@ -20,6 +20,56 @@
 <p>但是，實際上現在這個伺服器的訊息比之前的伺服器幾個月以來還要多。</p>
 <p> 希望這次我能成功讓這個社群成長為一個真正有人參與的大社群，而且這次，我不只侷限於Discord，</p>
 <p>更是會試著往其他社群平台出發， 【Sparka 斯峇卡】是一個「一個存在各個平台的國高中生社群」。</p>
+<blockquote>
+<p><strong>關於Sparka宇宙:</strong></p>
+<p>立刻了解我們: <a href="https://sparka.dishighschool.tk/">https://sparka.dishighschool.tk/</a><br>加入Discord: <a href="https://discord.gg/bWc5pHEyny">https://discord.gg/bWc5pHEyny</a><br>追蹤IG: @sparka.taiwan <a href="https://www.instagram.com/sparka.taiwan/">https://www.instagram.com/sparka.taiwan/</a> </p>
+</blockquote>
+]]></content>
+  </entry>
+  <entry>
+    <title>【2023 Discord 伺服器經營攻略】如何推廣曝光你的Discord伺服器!!</title>
+    <url>/webblog/2023/06/11/%E5%A6%82%E4%BD%95%E5%A2%9E%E5%8A%A0%E6%9B%9D%E5%85%89/</url>
+    <content><![CDATA[<p>你是否興致勃勃地建立了一個豐富的Discord伺服器，但建立完後卻不知道如何推廣? 以下將介紹你一些方法來幫助你的Discord伺服器有機會曝光!!</p>
+<p>1.<strong>使用Discord伺服器清單網站:</strong></p>
+<p>​	將Discord伺服器新增到一些伺服器清單網站能讓需要的人有機會搜索到你的伺服器</p>
+<p>另外如果你這麼做，你的伺服器也有機會出現在Google等搜尋引擎的搜尋結果!!</p>
+<p>那麼，我們該使用哪個網站呢? 如果你的客群是台灣人或華人，你可以使用 <strong>DiscordTW</strong></p>
+<blockquote>
+<p><strong>DiscordTW: <a href="https://discordservers.tw/">https://discordservers.tw/</a></strong></p>
+</blockquote>
+<p>這個網站有比較多的華人和台灣人，比起將伺服器放在國外的網站更有機會曝光。</p>
+<blockquote>
+<p>小技巧:</p>
+<p>經測試，DiscordTW的搜尋功能的搜尋範圍只有Discord伺服器名稱，</p>
+<p>不論是簡介或是詳情都不在搜尋範圍內，</p>
+<p>所以我們可以透過在伺服器名稱中加入關鍵詞來達到增加搜尋曝光的效果，</p>
+<p>比如本伺服器的名稱: <strong>Sparka 斯峇卡  | 屬於國中生&#x2F;高中生 學生的學習遊戲聊天交友天地</strong> ，</p>
+<p>這個名稱能被用以下關鍵字搜到: 「國中 高中 國中生 高中生 學生 學習 遊戲 交友」</p>
+<p> 當然，你也可以加入更多你認為有用的關鍵字，</p>
+<p>這個方法尤其是在伺服器剛建立時有效，因為DiscordTW，會把新的伺服器放在關鍵字搜索的第一位。</p>
+<p><img data-src="https://cdn.discordapp.com/attachments/1117045393205776424/1117045393348370502/image.png" alt="img"></p>
+<p><img data-src="https://cdn.discordapp.com/attachments/1117045393205776424/1117045394300489850/image.png" alt="img"></p>
+<p><img data-src="https://cdn.discordapp.com/attachments/1117045393205776424/1117045394623438858/image.png" alt="img"></p>
+<p><img data-src="https://cdn.discordapp.com/attachments/1117045393205776424/1117045394929627157/image.png" alt="img"></p>
+</blockquote>
+<blockquote>
+<p>小技巧:</p>
+<p>DiscordTW的簡介支援使用HTML語法，所以你可以使用<code>iframe</code> 來把自己的網頁崁入簡介，也可以崁入<a href="https://widgetbot.io/">WidgetBot</a> 的伺服器預覽(之後有機會在進行教學!!)，具體用法如下:</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;iframe src=&quot;要崁入的網站連結&quot; </span><br><span class="line">width=&quot;100%&quot; height=&quot;這裡是網站的高度，可以多試幾次找到適合的大小(範例:&quot;591&quot;)&quot;   scrolling=&quot;no&quot; </span><br><span class="line">style=&quot;overflow: hidden;&quot; &gt;</span><br></pre></td></tr></table></figure>
+</blockquote>
+<blockquote>
+<p><a href="https://discordservers.tw/servers/1099278657677172759">本技巧範例</a><img data-src="C:\Users\ryan\AppData\Roaming\Typora\typora-user-images\image-20230611101242867.png" alt="image-20230611101242867"></p>
+</blockquote>
+<p>2.<strong>和其他伺服器合作:</strong></p>
+<p>​	這個部分必須等你的伺服器至少達到100人才能有最理想的效果，因為大部分的大伺服器都會要求至少100人才能合作，如果你真的急著合作，可以試著在<strong>DiscordTW</strong> 上找一些伺服器人數偏少的伺服器，看看有沒有機會和對方合作。</p>
+<p>3.<strong>建立一個帳號，加入各種社群:</strong></p>
+<p>​	你可以透過建立一個屬於這個伺服器的帳號，並在這個帳號的介紹放上你伺服器的邀請連結，然後加入各種伺服器，賭賭看有沒有人會點進你的個人檔案，藉此增加曝光率!!</p>
+<blockquote>
+<p>小技巧:</p>
+<p>把帳號名稱的開頭加上”0” “!” 等在線上人員列表比較前面的字元，能讓你的帳號被看見的機會更高!!</p>
+<p><img data-src="C:\Users\ryan\AppData\Roaming\Typora\typora-user-images\image-20230611101321871.png" alt="image-20230611101321871"></p>
+</blockquote>
+<p>以上的技巧都能幫助你的伺服器獲得更多成員，但社群要熱絡並不是成員多就好，你還必須耐下性子，好好經營社群，才能讓你的社群發展茁壯喔!!</p>
 <blockquote>
 <p><strong>關於Sparka宇宙:</strong></p>
 <p>立刻了解我們: <a href="https://sparka.dishighschool.tk/">https://sparka.dishighschool.tk/</a><br>加入Discord: <a href="https://discord.gg/bWc5pHEyny">https://discord.gg/bWc5pHEyny</a><br>追蹤IG: @sparka.taiwan <a href="https://www.instagram.com/sparka.taiwan/">https://www.instagram.com/sparka.taiwan/</a> </p>
